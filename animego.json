@@ -1,0 +1,23 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"name": "whiteshape",
+		"id": "383926716919447553"
+	},
+	"service": "animego.org",
+	"description": {
+		"en": "animego is Russian anime website",
+		"ru": "animego это русский аниме сайт",
+		"nl": "animego is een Russische anime-website"
+	},
+	"url": "animego.org",
+	"version": "1.0",
+	"logo": "https://imgur.com/a/nGLPuoS",
+	"thumbnail": "https://imgur.com/a/aDQBSDt",
+	"color": "#ff0000",
+	"category": "anime",
+	"tags": [
+		"animego",
+		"anime"
+	]
+}
